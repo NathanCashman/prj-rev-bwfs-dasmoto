@@ -1,0 +1,42 @@
+html {
+  font-family: "Helvetica", sans-serif;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: Khaki;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+#main-banner {
+  background-image: url("../images/pattern.jpeg");
+  text-align: center;
+}
+
+#brushes-div {
+  background-color: mediumspringgreen;
+}
+
+#frames-div {
+  background-color: lightcoral;
+}
+
+#paint-div {
+  background-color: skyblue;
+}
+
+.item-price {
+  font-weight: bold;
+  color: blue;
+}
+
+#wrapper {
+  width: 90%;
+  margin: auto 0;
+}
